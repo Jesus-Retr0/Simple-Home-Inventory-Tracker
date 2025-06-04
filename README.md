@@ -46,16 +46,15 @@ Simple-Home-Inventory-Tracker/
 ├── config/
 │   ├── db.php
 │   ├── delete_item.php
-│   └── (other config scripts)
+│   └── edit_item.php
 ├── public/
 │   ├── index.php
 │   ├── add_item.php
 │   ├── inventory.php
-│   ├── edit_item.php
-│   └── delete_item.php
 ├── src/
 │   ├── add_item_style.css
 │   └── inventory_style.css
+│   └── styles.css
 └── README.md
 ```
 
