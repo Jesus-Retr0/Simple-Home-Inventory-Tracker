@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f7f7f7;
+}
+.container {
+    background: #fff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px #ccc;
+    max-width: 800px;
+    margin: 40px auto;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+th {
+    background: #f0f0f0;
+}
+tr:nth-child(even) {
+    background: #fafafa;
+}
+.actions a {
+    margin-right: 10px;
+    color: #007bff;
+    text-decoration: none;
+}
+.actions a:hover {
+    text-decoration: underline;
+}
